@@ -1,0 +1,13 @@
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\bin\Debug\netcoreapp3.1\BineryTreeDemo.exe
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\bin\Debug\netcoreapp3.1\BineryTreeDemo.deps.json
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\bin\Debug\netcoreapp3.1\BineryTreeDemo.runtimeconfig.json
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\bin\Debug\netcoreapp3.1\BineryTreeDemo.runtimeconfig.dev.json
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\bin\Debug\netcoreapp3.1\BineryTreeDemo.dll
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\bin\Debug\netcoreapp3.1\BineryTreeDemo.pdb
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\obj\Debug\netcoreapp3.1\BineryTreeDemo.csprojAssemblyReference.cache
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\obj\Debug\netcoreapp3.1\BineryTreeDemo.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\obj\Debug\netcoreapp3.1\BineryTreeDemo.AssemblyInfo.cs
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\obj\Debug\netcoreapp3.1\BineryTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\obj\Debug\netcoreapp3.1\BineryTreeDemo.dll
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\obj\Debug\netcoreapp3.1\BineryTreeDemo.pdb
+C:\Users\10\source\repos\TreesNGraphs\BineryTreeDemo\obj\Debug\netcoreapp3.1\BineryTreeDemo.genruntimeconfig.cache

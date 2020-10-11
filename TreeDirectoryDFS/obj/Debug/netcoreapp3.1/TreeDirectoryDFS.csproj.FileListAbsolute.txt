@@ -1,0 +1,13 @@
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\bin\Debug\netcoreapp3.1\TreeDirectoryDFS.exe
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\bin\Debug\netcoreapp3.1\TreeDirectoryDFS.deps.json
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\bin\Debug\netcoreapp3.1\TreeDirectoryDFS.runtimeconfig.json
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\bin\Debug\netcoreapp3.1\TreeDirectoryDFS.runtimeconfig.dev.json
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\bin\Debug\netcoreapp3.1\TreeDirectoryDFS.dll
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\bin\Debug\netcoreapp3.1\TreeDirectoryDFS.pdb
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\obj\Debug\netcoreapp3.1\TreeDirectoryDFS.csprojAssemblyReference.cache
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\obj\Debug\netcoreapp3.1\TreeDirectoryDFS.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\obj\Debug\netcoreapp3.1\TreeDirectoryDFS.AssemblyInfo.cs
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\obj\Debug\netcoreapp3.1\TreeDirectoryDFS.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\obj\Debug\netcoreapp3.1\TreeDirectoryDFS.dll
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\obj\Debug\netcoreapp3.1\TreeDirectoryDFS.pdb
+C:\Users\10\source\repos\TreesNGraphs\TreeDirectoryDFS\obj\Debug\netcoreapp3.1\TreeDirectoryDFS.genruntimeconfig.cache

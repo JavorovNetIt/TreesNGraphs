@@ -1,0 +1,13 @@
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\bin\Debug\netcoreapp3.1\TreesDemo.exe
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\bin\Debug\netcoreapp3.1\TreesDemo.deps.json
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\bin\Debug\netcoreapp3.1\TreesDemo.runtimeconfig.json
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\bin\Debug\netcoreapp3.1\TreesDemo.runtimeconfig.dev.json
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\bin\Debug\netcoreapp3.1\TreesDemo.dll
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\bin\Debug\netcoreapp3.1\TreesDemo.pdb
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\obj\Debug\netcoreapp3.1\TreesDemo.csprojAssemblyReference.cache
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\obj\Debug\netcoreapp3.1\TreesDemo.AssemblyInfoInputs.cache
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\obj\Debug\netcoreapp3.1\TreesDemo.AssemblyInfo.cs
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\obj\Debug\netcoreapp3.1\TreesDemo.csproj.CoreCompileInputs.cache
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\obj\Debug\netcoreapp3.1\TreesDemo.dll
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\obj\Debug\netcoreapp3.1\TreesDemo.pdb
+C:\Users\10\source\repos\TreesNGraphs\TreesDemo\obj\Debug\netcoreapp3.1\TreesDemo.genruntimeconfig.cache
